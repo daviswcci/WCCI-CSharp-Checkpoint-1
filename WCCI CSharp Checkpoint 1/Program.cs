@@ -6,7 +6,11 @@ namespace WCCI_CSharp_Checkpoint_1
     {
         static void Main(string[] args)
         {
-            // Complete the following exercises below their respective instructions. Try not to use any additional resources. Do what you know how to do, and try not to leave any broken code before moving to the next problem
+            // INSTRUCTIONS
+            //-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+            // Complete the following exercises, writing code beneath each exercise's instructions. Treat this as an opportunity to test what you know!
+            // Do a first pass without outside code/resources, and then go back to attempt the ones you weren't sure about for completion. Reach out if you have any questions! 
+            //-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
             // Create a comment below with your favorite pizza topping
 
