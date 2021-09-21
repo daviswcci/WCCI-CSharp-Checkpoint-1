@@ -71,5 +71,7 @@ namespace WCCI_CSharp_Checkpoint_1
 
     // Back inside our Program's main method, run 'Toast("buttered")' and 'Burn("buttered")' 
 
-    // Have a great day, and revel in this new experience!
+    // Complete a hard sudoku puzzle
+
+    // Have a great day, and revel in this new experience! Additional things to explore: Interfaces/Abstract Classes, additional Console features (beep and music), and packages
 }
